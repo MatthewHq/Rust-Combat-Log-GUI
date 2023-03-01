@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package com.gmail.matthew.hoq.rustcombatgui;
+//com.gmail.matthew.hoq.rustcombatgui.MainFrame
 
 import javax.swing.ImageIcon;
 
