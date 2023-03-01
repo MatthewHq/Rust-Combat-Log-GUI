@@ -154,9 +154,9 @@ public class Parser {
 
     }
 
-    public static void main(String args[]) {
-        Parser parser = new Parser("Z:\\SteamLibrary\\steamapps\\common\\Rust\\output_log.txt");
-        parser.parseCheck();
-
-    }
+//    public static void main(String args[]) {
+//        Parser parser = new Parser("Z:\\SteamLibrary\\steamapps\\common\\Rust\\output_log.txt");
+//        parser.parseCheck();
+//
+//    }
 }
